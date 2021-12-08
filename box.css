@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.mainbox{
+    height: 100px;
+    width: 100px;
+   
+left: 150px;
+margin-top: 150px;
+    border: red 2px solid;
+    margin: 10px;
+
+}
+
+
+

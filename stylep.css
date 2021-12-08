@@ -1,0 +1,26 @@
+
+
+
+.box{
+    width: 100px;
+    height: 200px;
+    border:1px solid red;
+    border:50px;
+    position:relative;
+    bottom: 15px;
+
+}
+.circle{
+    width: 100px;
+    height: 200px;
+    border:1px solid blue;
+    border-radius:50%;
+    position: absolute;
+    bottom: 15px;
+
+}
+
+.two{
+    position: absolute;
+    left: 200px;
+}

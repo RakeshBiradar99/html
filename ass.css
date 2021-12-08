@@ -1,0 +1,28 @@
+.mainbox{
+    
+    border: 2px solid red;
+    padding: 10px;
+    height: 350px;
+    width: 500px;
+}
+
+.box1{
+    display: flex;
+    display: grid;
+    /*border:2px solid yellowgreen;*/
+    padding: 0px;
+    align-items:center;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 5px;
+    }
+.box2{
+    display: flex;
+    /*border:2px solid yellowgreen;*/
+    padding: 0px;
+    align-items:center;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 5px;
+    background-color:violet
+}

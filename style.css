@@ -1,0 +1,18 @@
+li:first-child{
+    color:blue;
+}
+li:last-child{
+    color:red;
+}
+p:nth-of-type(1){
+    background-color:red;
+}
+a:hover{
+    color:red;
+}
+a:focus{
+    color:green;
+}
+p::first-letter(){
+    color:yellow;
+}
